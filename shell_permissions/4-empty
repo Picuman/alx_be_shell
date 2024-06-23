@@ -1,3 +1,2 @@
 #!/bin/bash
-touch hello
-echo "Empty file 'hello' created."
+chmod +x create_hello.sh
