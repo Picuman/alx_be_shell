@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -n > hello
+touch hello
+echo "Empty file 'hello' created."
